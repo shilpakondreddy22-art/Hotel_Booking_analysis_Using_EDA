@@ -62,18 +62,18 @@ The project compares **City Hotels** and **Resort Hotels**, delivering insights 
 │   └── hotel_booking.csv
 │
 ├── notebooks/
-│   ├── 01_EDA_PHASE_1.ipynb        # Data Cleaning & Univariate Analysis
-│   └── 02_EDA_PHASE_2.ipynb        # Bivariate, Multivariate & Trend Analysis
+│   ├── 01_EDA_PHASE_1.ipynb  # Data Cleaning & Univariate Analysis
+│   └── 02_EDA_PHASE_2.ipynb  # Bivariate, Multivariate & Trend Analysis
 │
 ├── presentations/
-│   └── EDA-PHASE-1&2-HOTEL_BOOKINGS.pptx   # Final PPT Presentation
+│   └── EDA-PHASE-1&2-HOTEL_BOOKINGS.pptx  # Final PPT Presentation
 │
 ├── reports/
-│   ├── EDA-PROJECT-PHASE-1.zip     # Phase 1 EDA Report Files
-│   └── EDA-PROJECT-PHASE-2.zip     # Phase 2 EDA Report Files
+│   ├── EDA-PROJECT-PHASE-1.zip  # Phase 1 EDA Report Files
+│   └── EDA-PROJECT-PHASE-2.zip  # Phase 2 EDA Report Files
 │
-├── requirements.txt                 # Python Dependencies
-└── README.md                        # Project Documentation
+├── requirements.txt   # Python Dependencies
+└── README.md          # Project Documentation
 
 
 
