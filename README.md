@@ -58,7 +58,7 @@ The project compares **City Hotels** and **Resort Hotels**, delivering insights 
 ---
 ## 📂 Repository Structure
 
-├── data/
+<├── data/
 │   └── hotel_booking.csv
 │
 ├── notebooks/
@@ -73,7 +73,7 @@ The project compares **City Hotels** and **Resort Hotels**, delivering insights 
 │   └── EDA-PROJECT-PHASE-2.zip  # Phase 2 EDA Report Files
 │
 ├── requirements.txt   # Python Dependencies
-└── README.md          # Project Documentation
+└── README.md          # Project Documentation>
 
 
 
