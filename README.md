@@ -56,20 +56,26 @@ The project compares **City Hotels** and **Resort Hotels**, delivering insights 
 - 📊 **Visualization:** PowerPoint  
 
 ---
+## 📂 Repository Structure
 
-## 📁 Repository Structure 
 ├── data/
-│ └── hotel_booking.csv
+│   └── hotel_booking.csv
+│
 ├── notebooks/
-│ ├── 01_EDA_PHASE_1.ipynb # Data cleaning & univariate analysis
-│ └── 02_EDA_PHASE_2.ipynb # Multivariate & trend analysis
+│   ├── 01_EDA_PHASE_1.ipynb        # Data Cleaning & Univariate Analysis
+│   └── 02_EDA_PHASE_2.ipynb        # Bivariate, Multivariate & Trend Analysis
+│
 ├── presentations/
-│ └── EDA-PHASE-1&2-HOTEL_BOOKINGS.pptx
-├── reports/ this also in code
-│ ├── EDA -PROJECT-PHASE-1.zip
-│ └── EDA -PROJECT-PHASE-2.zip
-├── requirements.txt
-└── README.md
+│   └── EDA-PHASE-1&2-HOTEL_BOOKINGS.pptx   # Final PPT Presentation
+│
+├── reports/
+│   ├── EDA-PROJECT-PHASE-1.zip     # Phase 1 EDA Report Files
+│   └── EDA-PROJECT-PHASE-2.zip     # Phase 2 EDA Report Files
+│
+├── requirements.txt                 # Python Dependencies
+└── README.md                        # Project Documentation
+
+
 --- 
 ## 💬 Final Note
 ✨ Transforming hotel booking data into **valuable insights** for smarter business decisions.  
